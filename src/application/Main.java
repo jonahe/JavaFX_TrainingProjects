@@ -15,7 +15,7 @@ public class Main extends Application {
 	
 	@Override
 	public void start(Stage primaryStage) {
-		
+		// test
 		// set title to  stage
 		primaryStage.setTitle("All the world's a stage");
 		// make a pane, to use in a scene later
